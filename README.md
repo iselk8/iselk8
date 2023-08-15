@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="mailto:ielkhat@wgu.edu" target="_blank"><img height="28" src = "./gmail.svg"></a>
+  <a href="mailto:ielkhat@wgu.edu" target="_blank"><img height="28" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/ismail-el-khattab/" target="_blank"> <img height="28" src = ""></a>
 </p>
 
