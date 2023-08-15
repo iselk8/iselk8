@@ -1,5 +1,6 @@
 ![Header](./github-header-image.png)
 
+# About me
 
 - 👨‍💻 My best projects are available at **www.ismailelkhattab.dev**
 
@@ -11,13 +12,15 @@
 
 - 📫 How to reach me **ielkhat@wgu.edu**
 
-<h3 align="left">Connect with me:</h3>
+<img align ="right" src = "./linux.png" width="250" height="250">
+
+# Connect with me: 
 <p align="left">
   <a href="mailto:ielkhat@wgu.edu" target="_blank"><img height="28" src = "https://img.shields.io/badge/Gmail%20-%20%23EA4335?logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/ismail-el-khattab/" target="_blank"> <img height="28" src = "https://img.shields.io/badge/LinkedIn%20-%20%230A66C2?logo=linkedin&logoColor=white"></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+# Languages and Tools:
 
 <p>
 <img src="https://img.shields.io/badge/Java%20-%20%23F80000?logo=oracle&logoColor=white" height="25"> 
@@ -43,3 +46,4 @@
   
 </p>
 
+------
