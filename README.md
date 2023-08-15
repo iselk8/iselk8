@@ -13,7 +13,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/link" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="link" height="30" width="40" /></a>
+  <a href="mailto:ielkhat@wgu.edu" target="_blank"><img height="28" src = "./gmail.svg></a>
+  <a href="https://www.linkedin.com/in/ismail-el-khattab/" target="_blank"> <img height="28" src = "./linkedin.svg"></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
