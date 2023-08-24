@@ -2,11 +2,13 @@
 
 # About me
 
-- 👨‍💻 My best projects are available at **www.ismailelkhattab.dev**
+- 🔎 I'm currently on the lookout for exciting new career opportunities!
+
+- 👨‍💻 My best projects are available at **www.ielkhat.com**
 
 - 🎓 B.S. Software Development **@ Western Governor's University**
 
-- 📍 Located in **Canada**
+- 📍 Located in **Montréal, QC - Canada**
 
 - 🌱 I’m currently learning **React Native**
 
