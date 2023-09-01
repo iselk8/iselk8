@@ -4,13 +4,15 @@
 
 - 🔎 I'm currently on the lookout for exciting new career opportunities!
 
-- 👨‍💻 My best projects are available at **www.ielkhat.com**
+- 👨‍💻 My best projects are available at **www.ielkhat.dev**
 
 - 🎓 B.S. Software Development **@ Western Governor's University**
 
 - 📍 Located in **Montréal, QC - Canada**
 
 - 🌱 I’m currently learning **React Native**
+
+- 🇫🇷 Je parle aussi **Français**
 
 - 📫 How to reach me **ielkhat@wgu.edu**
 
